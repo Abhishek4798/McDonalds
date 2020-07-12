@@ -88,7 +88,9 @@ background-color: #fff !important;
 
 .col1{
     width: 55%;
+    
 }
+
 .col1-row1{
     width:100%;
     padding-left:100px;
@@ -199,6 +201,9 @@ h1{
 .main-content{
     flex-direction: column;
     align-items: center !important;
+}
+.col1{
+    width: 400px;
 }
 .col2{
     justify-content: center;
